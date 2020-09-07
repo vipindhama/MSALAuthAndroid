@@ -1,0 +1,15 @@
+{
+"client_id" : "d31905b0-9fb3-4bb1-b14d-1b520e4eae9a",
+"authorization_user_agent" : "DEFAULT",
+"redirect_uri" : "msauth://com.vipin.msalauth/Gt3qfZMtN7BS7Fb%2BeKJJCUupRIM%3D",
+  "account_mode" : "SINGLE",
+"authorities" : [
+{
+"type": "AAD",
+"audience": {
+"type": "AzureADandPersonalMicrosoftAccount",
+"tenant_id": "common"
+}
+}
+]
+}
